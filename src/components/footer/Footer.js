@@ -24,11 +24,6 @@ const Footer = () => {
         <div className="footer_title">
           <p className="footer_title_text">Real Fitness &copy;</p>
         </div>
-        <div className="designer_contents">
-          <a href="https://www.lukementon.com/">
-            <p className="designer_contents_text">Website by Luke Menton</p>
-          </a>
-        </div>
       </div>
     </div>
   );
